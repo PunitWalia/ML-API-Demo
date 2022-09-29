@@ -1,0 +1,21 @@
+# Model related
+torch
+transformers
+
+# app related
+pylint
+pytest
+
+# HTTP endpoint related
+flask
+flask-cors
+flask-expects-json
+gevent
+gunicorn
+
+# Message Queue related
+redis
+
+# Batch Processing with file 
+pandas
+tqdm
