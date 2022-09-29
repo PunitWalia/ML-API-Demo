@@ -1,9 +1,6 @@
 # ML-API-Demo
 NLI-based Zero Shot Text Classification
 
-How to run the code.
-I've tried my best to document stuff below. But if in doubt, start from the Makefile, and "follow the white rabbit".
-
 Pre-requisites
 You'll need docker and docker-compose installed on your machine to use this. Also, don't forget to increase the memory and disk space allocated to it from docker preferences.
 
